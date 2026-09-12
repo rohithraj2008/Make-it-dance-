@@ -95,7 +95,7 @@ Boring Object	Dancing Star
 *Add photo here*	*Add dancing video screenshot here*
 🔴 Live Demo
 👉 https://make-it-dance.netlify.app/ 👈
-
+Deno video 👉https://youtube.com/shorts/9v5U6Syo574?si=xTTSC_4g2XzkTBUS👈
 💻 GitHub Repository
 Code + Docs - all pushed from phone! Give it a ⭐
 
