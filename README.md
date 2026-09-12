@@ -1,14 +1,6 @@
 # Make-it-dance-
 Take a photo of any object and make it dance for absolutely no reason. 🕺
 
-Absolutely. You can make the explanation **more detailed and professional** for the judges.
-
-### What is a README?
-
-A **README.md** is the main documentation file of your GitHub project. It gives judges a complete understanding of your project without needing to look through all your code.
-
-For **Make It Dance**, the README should explain:
-
 1. **Project Title**
    The name of your project — **Make It Dance 🕺**
 
